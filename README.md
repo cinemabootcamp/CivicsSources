@@ -1,3 +1,5 @@
+# Civics
+
 ## Table of Contents
 - [Videos](#videos)
 - [Taking Action](#taking-action)
