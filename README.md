@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Videos](#videos)
 - [Taking Action](#taking-action)
+- [Newsletters](#newsletters)
 
 ## Videos
 
@@ -14,3 +15,8 @@
 ## Taking Action
 
 - [Elected Ofifcials](https://www.usa.gov/elected-officials)
+
+
+## Newsletters
+
+- [My Civic Workout](https://www.mycivicworkout.com/)
